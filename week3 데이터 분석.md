@@ -55,7 +55,12 @@ https://www.youtube.com/watch?v=hhbzUEQWdTg&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 # 2️⃣ 수행 인증
 
-<오류로 인해 사진이 등록되지 않고 있습니다. 따로 캡처 해놨으니 검증하실때 필요하시면 사진 보내드리겠습니다> 
+<<img width="512" height="593" alt="image" src="https://github.com/user-attachments/assets/3ea91087-7982-4756-bdb9-10b62657efe1" />
+>
+<<img width="482" height="596" alt="image" src="https://github.com/user-attachments/assets/3dbc3fb7-ecd0-4c06-b96d-ac466b28fe05" />
+>
+<<img width="476" height="208" alt="image" src="https://github.com/user-attachments/assets/51a84469-5c9f-41fd-8998-e2cd730424a7" />
+>
 
 # 3️⃣ 확인 문제
 
